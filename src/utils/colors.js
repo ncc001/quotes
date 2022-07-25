@@ -6,6 +6,8 @@ const colors = [
 	'#EA899A',
 	'#2271B3',
 	'#20603D',
+	'#EC7C26',
+	'#3B83BD',
 ];
 
 export default colors;

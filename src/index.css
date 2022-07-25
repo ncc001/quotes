@@ -14,7 +14,7 @@ body {
 }
 
 .App {
-	height: 95vh;
+	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -22,8 +22,8 @@ body {
 }
 
 .quote__conteiner {
-	background-color: #15202b;
-
+	/* background-color: #15202b; */
+	background-color: #fff;
 	border-radius: 2rem;
 	-webkit-border-radius: 2rem;
 	-moz-border-radius: 2rem;
