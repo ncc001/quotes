@@ -1,0 +1,62 @@
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+html {
+	font-size: 62.5%;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.App {
+	height: 95vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0 0.5rem;
+}
+
+.quote__conteiner {
+	background-color: #15202b;
+
+	border-radius: 2rem;
+	-webkit-border-radius: 2rem;
+	-moz-border-radius: 2rem;
+	-ms-border-radius: 2rem;
+	-o-border-radius: 2rem;
+	box-shadow: 1px 1px 20px #0005;
+	overflow: hidden;
+	width: 45rem;
+	padding: 2rem;
+	margin: 0;
+	text-align: end;
+	font-size: 2rem;
+}
+.quote__text {
+	text-align: start;
+	margin: 0;
+}
+.quotete {
+	font-size: 4rem;
+}
+
+.quote__author {
+	font-style: oblique;
+}
+.quote__btn {
+	color: white;
+	border: 0;
+	aspect-ratio: 1;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	padding: 0 1rem;
+}
+
